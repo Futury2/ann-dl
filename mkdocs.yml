@@ -147,5 +147,5 @@ nav:
     - Roteiro 2: ./roteiro2/index.md
     - Roteiro 3: ./roteiro3/index.md
     - Roteiro 4: ./roteiro4/index.md
-    - Exercicios: ./exercises/data.ipynb
+    - Exercicios: ./exercises/data.ipynb,  ./exercises/perceptron.ipynb
   - Projeto: ./projeto/index.md
