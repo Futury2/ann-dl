@@ -142,4 +142,5 @@ nav:
     - Data: ./exercises/data.ipynb
     - Perceptron: ./exercises/perceptron.ipynb
     - MLP: ./exercises/mlp.ipynb
+    - VAE: ./exercises/vae.ipynb
   - Projeto: ./projeto/index.md
